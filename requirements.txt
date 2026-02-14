@@ -2,8 +2,9 @@ streamlit
 numpy
 pandas
 scikit-learn
-tensorflow
+tensorflow==2.15.0
 opencv-python
 pillow
 matplotlib
 requests
+keras==2.13.1
